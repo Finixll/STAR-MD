@@ -134,3 +134,4 @@ Enjoy the diverse features of the WhatsApp Bot to enhance your conversations and
 
 * -PRECIOUS AYOMIDE
 * -JOSEPH SAMUEL
+* Ibrahim Ahmad
